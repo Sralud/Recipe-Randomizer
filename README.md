@@ -1,5 +1,4 @@
 # Recipe-Randomizer
 
-Update needed:\n
--add more recipes\n
--others...
+Update needed:
+-add more recipes and other problem...
