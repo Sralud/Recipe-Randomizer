@@ -1,0 +1,17 @@
+[
+    {
+        "title": "Spaghetti Bolognese",
+        "ingredients": ["spaghetti", "ground beef", "tomato sauce", "onion", "garlic"],
+        "steps": ["Cook spaghetti", "Prepare sauce", "Combine and serve"]
+    },
+    {
+        "title": "Chicken Adobo",
+        "ingredients": ["chicken", "soy sauce", "vinegar", "garlic", "pepper"],
+        "steps": ["Marinate chicken", "Cook in soy sauce and vinegar", "Simmer until tender"]
+    },
+    {
+        "title": "Pancakes",
+        "ingredients": ["flour", "milk", "eggs", "sugar", "butter"],
+        "steps": ["Mix ingredients", "Pour batter on pan", "Cook until golden"]
+    }
+]
